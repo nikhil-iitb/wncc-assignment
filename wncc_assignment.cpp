@@ -1,9 +1,5 @@
-//We have to find the maximum number of groundworks that a student can attend
-//Algorithm:
-//           * Greedy Algorithm: Firstly sort the events on basis of endtime; 
-//           * Then choose non overlapping short events (strating from one having least duration)
-//           * Carry on this till latest event has been covered
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Greedy Algorithm has been used
+//Source: Competitive Programmer's Handbook by Antti Laaksonen
 
 #include <iostream>
 #include <fstream>
